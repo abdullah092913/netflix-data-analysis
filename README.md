@@ -36,9 +36,6 @@ Country-wise content production
 
 Movies vs TV Shows count
 
-Duration analysis
-
-Top-producing directors
 
 Notebook: task2_eda.ipynb
 
